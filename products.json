@@ -1,0 +1,32 @@
+[
+  {
+    "productNo": "9001",
+    "productName": "Smartwatch",
+    "price": 300,
+    "image": "smartwatch.png"
+  },
+  {
+    "productNo": "P002",
+    "productName": "Advanced Smartphone",
+    "price": 8000,
+    "image": "smartphone.jpg"
+  },
+  {
+    "productNo": "P003",
+    "productName": "Smartphone",
+    "price": 800,
+    "image": "smartphone.jpg"
+  },
+  {
+    "productNo": "P007",
+    "productName": "Smartphone new",
+    "price": 8000,
+    "image": "smartphone.jpg"
+  },
+  {
+    "productNo": "P004",
+    "productName": "Smartphone new",
+    "price": 8000,
+    "image": "smartphone.jpg"
+  }
+]
